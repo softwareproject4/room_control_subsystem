@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>com.mashape.unirest</groupId>
-            <artifactId>unirest-java</artifactId>
+            <artifactId>unirest-javaa</artifactId>
             <version>1.4.9</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
