@@ -227,7 +227,7 @@ public class TempratureController extends javax.swing.JFrame {
 
     private void addButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addButtonActionPerformed
 
-        // Validation
+        // Validations
         if(jTextField1.getText()== null || jTextField1.getText().isEmpty()){
              JOptionPane.showMessageDialog(rootPane, "Device Id can't be blank");
              return ;
